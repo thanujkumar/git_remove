@@ -1,6 +1,5 @@
 
-class one 
-{
+class one{
 	//some text
 	//
   
